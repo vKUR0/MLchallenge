@@ -8,8 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
-./Flowers
-./.idea
-./flowerskaggle
-./Flowerskagglebien
-./archive
+/Flowers/
+/archive/
+/flowerskaggle/
+/Flowerskagglebien/
+/.idea
